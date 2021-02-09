@@ -17,9 +17,9 @@ To summarize, this code sequence is used to show the current weather temperature
 
 <a href="https://ibb.co/FVpwMf1"><img src="https://i.ibb.co/zJdRYLg/Ads-z.png" alt="Ads-z" border="0"></a>
 
-<a href="https://ibb.co/yRv5ysG"><img src="https://i.ibb.co/Jd627k0/Ads-z.png" alt="Ads-z" border="0"></a>
+<a href="https://ibb.co/X8qzgyF"><img src="https://i.ibb.co/pyS38W4/Ads-z.png" alt="Ads-z" border="0"></a>
 
-<a href="https://ibb.co/WpW9FSq"><img src="https://i.ibb.co/JFRL2X0/Ads-z.png" alt="Ads-z" border="0"></a>
+<a href="https://ibb.co/xCRTQ0V"><img src="https://i.ibb.co/smMYrGL/Ads-z.png" alt="Ads-z" border="0"></a>
 
 
 
