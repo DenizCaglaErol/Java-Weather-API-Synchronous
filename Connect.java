@@ -17,7 +17,7 @@ public class Connect {
 	      
 	      try {
 	         Class.forName("org.sqlite.JDBC");
-	         c = DriverManager.getConnection("jdbc:sqlite:C:\\Users\\Baran\\Desktop\\veri.db");
+	         c = DriverManager.getConnection("jdbc:sqlite:database_path");
 	      } catch ( Exception e ) {
 	         System.err.println( e.getClass().getName() + ": " + e.getMessage() );
 	         System.exit(0);
