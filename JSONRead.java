@@ -18,7 +18,7 @@ public class JSONRead {
 		URLConnection urlConnection = url.openConnection();
 		result = parseGetResponse(urlConnection);
 		} catch (IOException e) {
-		System.out.println("Baðlantý Hatasý...M: " + e.getMessage());
+		System.out.println("Error " + e.getMessage());
 		}
 		}
 		//System.out.println(result);
