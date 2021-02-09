@@ -100,7 +100,7 @@ public void createTable() throws SQLException {
 	   
 	    
 	    try {
-	    	connection = DriverManager.getConnection("jdbc:sqlite:C:\\\\Users\\\\Baran\\\\Desktop\\\\veri.db");
+	    	connection = DriverManager.getConnection("jdbc:sqlite:database_path");
 			statement = connection.createStatement();
 	    } catch (Exception e1) {
 	      System.err.println("Exception: " + e1.getMessage());
