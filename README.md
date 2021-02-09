@@ -12,14 +12,6 @@ The actionPerformed(ActionEvent e) method is a sequence of code that specifies w
 If the action command equals to "Query the selected one", the method named sendGetRequest() in the JSONRead.java class is called, then json is parsed and the Update method in the Connect.java class is used using the created Connect object. Finally, using the AnaMenu object, the createTable() method and the recreate() method are called.
 To summarize, this code sequence is used to show the current weather temperature and current the weather type of a city selected from the table.
 
-<a href="https://ibb.co/mJC6cf7"><img src="https://i.ibb.co/PxZw6q8/Ads-z.png" alt="Ads-z" border="0"></a>
-
-<a href="https://ibb.co/jhm5QhX"><img src="https://i.ibb.co/sjnPNjY/Ads-z.png" alt="Ads-z" border="0"></a>
-
-<a href="https://ibb.co/sWSF62k"><img src="https://i.ibb.co/BnDgrtd/Ads-z.png" alt="Ads-z" border="0"></a>
-
-If the action command equals to "Add", the method named sendGetRequest() in the JSONRead.java class is called, then json is parsed and insert method in the Connect.java class is used using created Connect object. Then, as above, using the AnaMenu object, the createTable() method and the recreate() method are called.
-This code sequence allows the current weather information of the city, written in the textfield section, to be added to the database and updated in the table.
 
 <a href="https://ibb.co/GVnBMbL"><img src="https://i.ibb.co/dQj1pzq/Ads-z.png" alt="Ads-z" border="0"></a>
 
@@ -28,3 +20,13 @@ This code sequence allows the current weather information of the city, written i
 <a href="https://ibb.co/yRv5ysG"><img src="https://i.ibb.co/Jd627k0/Ads-z.png" alt="Ads-z" border="0"></a>
 
 <a href="https://ibb.co/WpW9FSq"><img src="https://i.ibb.co/JFRL2X0/Ads-z.png" alt="Ads-z" border="0"></a>
+
+<a href="https://ibb.co/mJC6cf7"><img src="https://i.ibb.co/PxZw6q8/Ads-z.png" alt="Ads-z" border="0"></a>
+
+
+If the action command equals to "Add", the method named sendGetRequest() in the JSONRead.java class is called, then json is parsed and insert method in the Connect.java class is used using created Connect object. Then, as above, using the AnaMenu object, the createTable() method and the recreate() method are called.
+This code sequence allows the current weather information of the city, written in the textfield section, to be added to the database and updated in the table.
+
+<a href="https://ibb.co/jhm5QhX"><img src="https://i.ibb.co/sjnPNjY/Ads-z.png" alt="Ads-z" border="0"></a>
+
+<a href="https://ibb.co/sWSF62k"><img src="https://i.ibb.co/BnDgrtd/Ads-z.png" alt="Ads-z" border="0"></a>
