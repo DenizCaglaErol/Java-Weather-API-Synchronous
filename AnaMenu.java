@@ -88,8 +88,8 @@ public void createTable() throws SQLException {
 	
 	Connection connection = null;
 	Statement statement;
-    String query;
-    ResultSet rs;
+    	String query;
+    	ResultSet rs;
 	    
 	    Object rowData[][] = {{"", "", "",""}};
 	    Object columnNames[] = {"ID", "City", "Temperature","Type"};
