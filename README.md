@@ -3,7 +3,7 @@ On the opening screen of the application, there was be 2 buttons, 1 textbox to p
 
 <a href="https://ibb.co/nsy9mkQ"><img src="https://i.ibb.co/LzymRp9/Ads-z.png" alt="Ads-z" border="0"></a>
 
-JSONRead.java class is used to send Java HTTP request and parse JSON. In the functions in this class, it will send the arguments we give to the server address, which is the address that contains the html form in our case. As you can see from the code, you don't have to deal with question marks. Then, in parseObject(JSONObject jo) method, JSON is parsing. The json-simple library is meant to be a free lightweight utility for deserializing and serializing Javascript Object Notation (JSON). The json-simple-1.1.jar file must be added to the classpath.
+JSONRead.java class is used to send Java HTTP request and parse JSON. In the functions in this class, it will send the arguments we give to the server address, which is the address that contains the html form in our case. As you can see from the code, you don't have to deal with question marks. The json-simple library is meant to be a free lightweight utility for deserializing and serializing Javascript Object Notation (JSON). The json-simple-1.1.jar file must be added to the classpath.
 
 For Connect.java class, first of all, downloaded jar file sqlite-jdbc-3.27.2.1.jar added in class path. The connect() method shows how to connect to an existing database. In insertion part, it was showed how to create records in database table. Lastly, in updating part, it was showed how to use UPDATE statement to update any record and then fetch and display the updated records from the database table.
 
