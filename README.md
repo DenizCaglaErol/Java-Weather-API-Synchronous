@@ -13,9 +13,9 @@ If the action command equals to "Query the selected one", the method named sendG
 To summarize, this code sequence is used to show the current weather temperature and current the weather type of a city selected from the table.
 
 
-<a href="https://ibb.co/GVnBMbL"><img src="https://i.ibb.co/dQj1pzq/Ads-z.png" alt="Ads-z" border="0"></a>
+<a href="https://ibb.co/4dcdBSS"><img src="https://i.ibb.co/tXSXy22/Ads-z.png" alt="Ads-z" border="0"></a>
 
-<a href="https://ibb.co/FVpwMf1"><img src="https://i.ibb.co/zJdRYLg/Ads-z.png" alt="Ads-z" border="0"></a>
+<a href="https://ibb.co/Ytg5YPs"><img src="https://i.ibb.co/SKSkW5C/Ads-z.png" alt="Ads-z" border="0"></a>
 
 <a href="https://ibb.co/X8qzgyF"><img src="https://i.ibb.co/pyS38W4/Ads-z.png" alt="Ads-z" border="0"></a>
 
