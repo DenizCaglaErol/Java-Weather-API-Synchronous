@@ -139,7 +139,6 @@ public void actionPerformed(ActionEvent e) {
 	
 	
 	
-	
 	if(e.getActionCommand().equalsIgnoreCase("Query the selected one")) {
 		
 		Connect c=new Connect();
