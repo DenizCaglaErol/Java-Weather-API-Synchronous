@@ -3,25 +3,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
-import org.json.simple.JSONObject;
+
 
 
 
 public class JSONRead {
 	
-	public static void parseObject(JSONObject jo) 
-    {
-        
-        JSONObject location = (JSONObject) jo.get("current");
-        double temp = (double) location.get("temp_c");    
-        System.out.println(temp);
-        JSONObject condition = (JSONObject) location.get("condition");   
-        String type = (String) condition.get("text");    
-        System.out.println(type);
-		
-    }
-
-
 	public static String sendGetRequest(String hostAddress, String data,String city) {
 		String result = null;
 		if (hostAddress.startsWith("https://")) {
@@ -31,7 +18,7 @@ public class JSONRead {
 		URLConnection urlConnection = url.openConnection();
 		result = parseGetResponse(urlConnection);
 		} catch (IOException e) {
-		System.out.println("Baðlantý Hatasý...M: " + e.getMessage());
+		System.out.println("BaÃ°lantÃ½ HatasÃ½...M: " + e.getMessage());
 		}
 		}
 		//System.out.println(result);
