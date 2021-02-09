@@ -203,7 +203,7 @@ public void actionPerformed(ActionEvent e) {
 }
 
 
-	void recreate() {
+	public void recreate() {
 
 	  try {
 		 
