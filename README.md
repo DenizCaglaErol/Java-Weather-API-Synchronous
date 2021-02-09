@@ -21,7 +21,7 @@ To summarize, this code sequence is used to show the current weather temperature
 
 <a href="https://ibb.co/WpW9FSq"><img src="https://i.ibb.co/JFRL2X0/Ads-z.png" alt="Ads-z" border="0"></a>
 
-<a href="https://ibb.co/mJC6cf7"><img src="https://i.ibb.co/PxZw6q8/Ads-z.png" alt="Ads-z" border="0"></a>
+
 
 
 If the action command equals to "Add", the method named sendGetRequest() in the JSONRead.java class is called, then json is parsed and insert method in the Connect.java class is used using created Connect object. Then, as above, using the AnaMenu object, the createTable() method and the recreate() method are called.
