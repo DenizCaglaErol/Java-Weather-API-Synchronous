@@ -50,7 +50,7 @@ public class JSONRead {
 		result = stringBuffer.toString();
 		}
 		catch (IOException e) {
-		System.out.println("Error"+ e.getMessage());
+		System.out.println("Error "+ e.getMessage());
 		}
 		return result;
 		}
